@@ -1,24 +1,50 @@
 ## This is Testing tools
 
 
-#command tool 
+create by Solangi zk
 
-*pkg update 
+(1) pkg update 
 
-*pkg upgrade 
+(2)pkg upgrade 
 
-*pkg install python 
+(3)pkg install python 
 
-*pkg install pythone2
+(4)pkg install python2
+
+(5)pip2 install requests 
+
+(6)pip2 install mechanize 
+
+(7)pkg install git 
+
+(8)git clone https://github.com/Sameerzk/Zahid/
+
+(9)cd Zahid
+
+(10)python2 Solangi.py
+
+User name     komail
+
+password       khan
 
 
-*pip2 install mechanize 
 
-*pkg install git
 
-*https://github.com/Sameerzk/Zahid
 
-*cd Zahid
 
-*Python2 Solangi.py 
-thanks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
